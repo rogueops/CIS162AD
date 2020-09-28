@@ -1,5 +1,5 @@
-﻿//Number Types Assignment
-//Author: Jason Plimpton
+//Number Types Assignment
+//Author: Nicore
 //Built: 09/25/2020
 //Class: CIS162D
 //Notes: Will check if the number entered is an odd or even number

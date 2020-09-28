@@ -1,5 +1,5 @@
 ﻿// Hello World! Program
-// By Jason Plimpton
+// By Nicore
 // For Class CIS-162AD
 // 09/06/2020
 

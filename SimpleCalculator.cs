@@ -1,4 +1,4 @@
-﻿//Author: Jason Plimpton
+//Author: Nicore
 //Simple Calculator Application
 //Class: CIS162AD
 //Created: 09/19/2020
